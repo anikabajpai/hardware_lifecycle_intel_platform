@@ -1,0 +1,6 @@
+revision,fab_house,date,total_boards,passed,failed,yield_pct,primary_defect,layer_count,panel_count
+Rev A,PCBWay,2024-08-01,72,45,27,63.0,Open trace,6,18
+Rev B,PCBWay,2024-09-12,64,43,21,68.7,Soldermask bleed,6,16
+Rev C,Advanced Circuits,2024-10-24,56,43,13,77.3,Copper void,6,14
+Rev D,PCBWay,2024-12-05,40,34,6,86.0,Copper void,6,10
+Rev E,TTM Technologies,2025-01-16,40,35,5,89.5,Soldermask bleed,6,10

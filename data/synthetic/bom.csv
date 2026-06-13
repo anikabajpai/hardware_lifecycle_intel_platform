@@ -1,0 +1,16 @@
+reference,description,manufacturer,quantity,category,unit_cost_usd,extended_cost_usd,lead_time_weeks,lifecycle_status,supply_risk
+U1,Xilinx XC7A35T FPGA,Xilinx,1,FPGA,42.5,42.5,18,Active,Medium
+U2,STM32F407 MCU,STMicro,1,MCU,8.2,8.2,12,Active,Low
+U3,TPS62130 Buck Converter,TI,2,Power,1.85,3.7,6,Active,Low
+U4,ADC128S102 ADC,TI,1,Analog,3.4,3.4,52,NRND,High
+U5,LMK04828 Clock IC,TI,1,Clock,18.7,18.7,24,Active,High
+C1,100nF 0402 Decoupling Cap,Murata,48,Passive,0.02,0.96,4,Active,Low
+C2,10uF 0805 Bulk Cap,TDK,12,Passive,0.15,1.8,4,Active,Low
+R1,10k 0402 Resistor,Yageo,32,Passive,0.01,0.32,4,Active,Low
+J1,USB Type-C Connector,Molex,1,Connector,0.85,0.85,16,Active,Medium
+J2,40-pin FPC Connector,Hirose,2,Connector,1.2,2.4,26,Active,High
+L1,4.7uH Inductor,Bourns,3,Passive,0.45,1.35,8,Active,Low
+X1,25MHz Crystal,ABRACON,1,Oscillator,0.95,0.95,14,Active,Medium
+U6,IS42S32400F SDRAM,ISSI,1,Memory,3.1,3.1,36,Active,High
+U7,W25Q128JV Flash,Winbond,1,Memory,1.6,1.6,10,Active,Low
+D1,BAT54 Schottky Diode,Vishay,4,Discrete,0.12,0.48,6,Active,Low

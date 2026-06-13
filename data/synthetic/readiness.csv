@@ -1,0 +1,4 @@
+revision,fab_yield_pct,asm_defect_rate_pct,test_pass_rate_pct,avg_coverage_pct,units_tested,readiness_score,deployment_status
+Rev C,77.3,9.9,70.8,87.0,8,69.0,Not Ready
+Rev D,86.0,9.9,76.0,88.1,10,73.9,Conditional
+Rev E,89.5,9.9,68.9,87.5,12,72.0,Conditional

@@ -1,0 +1,20 @@
+batch_id,date,units_assembled,defect_type,location,defect_rate_pct,rework_required,operator_id,shift
+BATCH-001,2024-10-01,12,Missing component,L1 lead,16.6,False,OP-04,Evening
+BATCH-002,2024-10-08,10,Insufficient solder,J2 pin 3,19.4,False,OP-05,Evening
+BATCH-003,2024-10-15,20,Solder bridge,U3 pad 6,16.8,True,OP-02,Evening
+BATCH-003,2024-10-15,20,Solder bridge,U3 pad 6,16.8,False,OP-02,Day
+BATCH-003,2024-10-15,20,Insufficient solder,U3 pad 6,16.8,False,OP-05,Day
+BATCH-004,2024-10-22,14,Cold joint,C1 cluster,13.5,False,OP-05,Day
+BATCH-005,2024-10-29,20,Missing component,U1 pin 14,14.6,True,OP-03,Evening
+BATCH-005,2024-10-29,20,Tombstone,U1 pin 14,14.6,True,OP-05,Day
+BATCH-006,2024-11-05,12,Insufficient solder,U4 BGA,11.7,True,OP-05,Day
+BATCH-007,2024-11-12,14,Insufficient solder,U4 BGA,10.8,False,OP-02,Evening
+BATCH-008,2024-11-19,23,Tombstone,R1 array,11.3,False,OP-03,Evening
+BATCH-008,2024-11-19,23,Insufficient solder,J1 shell,11.3,True,OP-05,Evening
+BATCH-009,2024-11-26,13,,,0.0,False,OP-02,Day
+BATCH-010,2024-12-03,12,,,0.0,False,OP-03,Day
+BATCH-011,2024-12-10,17,Wrong polarity,R1 array,7.0,True,OP-01,Day
+BATCH-012,2024-12-17,17,,,0.0,False,OP-01,Day
+BATCH-013,2024-12-24,20,Solder bridge,R1 array,6.9,True,OP-04,Day
+BATCH-014,2024-12-31,14,,,0.0,False,OP-05,Evening
+BATCH-015,2025-01-07,17,,,0.0,False,OP-04,Evening
